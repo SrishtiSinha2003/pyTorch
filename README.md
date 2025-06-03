@@ -48,6 +48,6 @@ By the end of this project, you will:
 3. Install dependencies (if running locally):
 
     ```bash
-    Copy code
+    pip install torch numpy matplotlib pandas
     ```
    
