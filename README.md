@@ -15,7 +15,6 @@ This repository includes well-documented Jupyter notebooks covering:
 - ✍️ Creating tensors: `tensor`, `arange`, `zeros`, `ones`, `rand`, `tensor_like`  
 - ⚙️ Tensor operations: indexing, reshaping, basic math  
 - 🔁 Conversion between NumPy arrays and PyTorch tensors  
-- 📊 Visualizing tensors (where applicable)
 
 ---
 
@@ -33,4 +32,22 @@ This repository includes well-documented Jupyter notebooks covering:
 By the end of this project, you will:
 
 - Understand how to create and manipulate PyTorch tensors  
-- Be comfortable using tensors for machin
+- Be comfortable using tensors for machinlearning workflows  
+- Have a strong foundation for exploring deep learning models
+
+---
+## 🛠️ Setup Instructions
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/srishtisinha2003/pyTorch.git
+   cd pyTorch
+   ```
+2. Open the notebooks with Google Colab or Jupyter.
+
+3. Install dependencies (if running locally):
+
+    ```bash
+    Copy code
+    ```
+   
