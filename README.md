@@ -46,8 +46,4 @@ By the end of this project, you will:
 2. Open the notebooks with Google Colab or Jupyter.
 
 3. Install dependencies (if running locally):
-
-    ```bash
-    pip install torch numpy matplotlib pandas
-    ```
    
